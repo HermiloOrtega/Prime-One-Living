@@ -1,65 +1,56 @@
-# 📦 Prime One Living
+# Prime One Living
 
 ## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+**Prime One Living** is a real estate promotional website developed during my time at **Epic Inspired**. The site was created as a **one-page Webflow project** to present a modern real estate development focused on luxury urban living. It served as a digital showcase for potential buyers and investors to explore key features, architectural highlights, and location benefits of the property.
 
 ## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+The concept of Prime One Living was to present an elegant, modern digital experience that reflected the design of the building itself. It was aimed at:
+- Presenting high-quality visuals and architectural concepts.
+- Providing clear call-to-actions to connect with the sales team.
+- Creating a seamless experience across desktop and mobile.
 
 ## ✨ Features & Functionality
-- Bullet list of main features 
+- **One-page Webflow design:** Smooth scroll-based navigation between sections.
+- **Image galleries:** High-resolution visuals showcasing amenities and interiors.
+- **Interactive Map:** Highlights nearby schools, parks, transit, and urban amenities.
+- **Contact Form:** Integrated with lead capture tools.
+- **SEO Optimized Content:** Built with best practices for Webflow indexing.
 
 ## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+- **Platform:** Webflow
+- **Frontend:** HTML, CSS, Webflow Designer
+- **Hosting:** Webflow CDN
+- **Integrations:** HubSpot (for forms and email capture)
 
 ## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+- Built using a modular Webflow canvas with reusable components.
+- Fixed navigation with smooth anchors to each section.
+- Clean typography and layout tailored to match architectural branding.
+- Responsive design tested across major devices and browsers.
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+## 🚀 Deployment & Maintenance
+- Site was hosted and managed on Webflow’s platform.
+- Forms routed through integrated marketing tools for lead generation.
+- Regular updates handled through Webflow Designer for content and media.
 
-- **Installation Steps:** 
-
-- **Deployment Environment:** 
-
-- **Access:** 
-
-> **Note:** 
-
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
-
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+## 🧑‍💻 My Role & Contributions
+- Built the site from a blank Webflow canvas using Figma mockups.
+- Integrated interactive map and optimized imagery for fast performance.
+- Managed form behavior and implemented redirects for user experience.
+- Coordinated with the design and marketing teams for go-live.
 
 ## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+- Delivered an elegant layout with performance-first optimizations.
+- Learned advanced Webflow tricks for animations and transitions.
+- Balanced high-quality visuals with fast-loading performance.
 
 ## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
-
-## 🤝 Contributing
-- How other can contribute (if open source)
+- Add a property availability tracker or dynamic floorplan viewer.
+- Expand to a multi-page experience for detailed unit breakdowns.
+- Integrate with real estate CRM for better lead nurturing.
 
 ## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+This is a private commercial project developed under Epic Inspired. All rights reserved to the client.
 
 ## 🔗 Additional Resources
-- **Documentation:** 
-
-- **Related Projects:** 
-
-- **Live Demo Link:** 
+- **Related Projects:** [Burqville](#), [Clarendon Heights](#), [BeoCanada](#)
